@@ -1,9 +1,8 @@
-package com.viz.interview.modules.patients.scans.entities;
+package com.viz.interview.modules.scans.entities;
 
-import com.viz.interview.modules.patients.scans.entities.keys.ScanEntityPKey;
+import com.viz.interview.modules.scans.entities.keys.ScanEntityPKey;
 
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.IdClass;
 import java.time.LocalDateTime;

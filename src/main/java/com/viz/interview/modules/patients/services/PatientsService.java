@@ -1,7 +1,7 @@
-package com.viz.interview.modules.scans.services;
+package com.viz.interview.modules.patients.services;
 
-import com.viz.interview.modules.scans.entities.PatientEntity;
-import com.viz.interview.modules.scans.repositories.PatientsRepository;
+import com.viz.interview.modules.patients.entities.PatientEntity;
+import com.viz.interview.modules.patients.repositories.PatientsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.viz.interview.modules.patients.scans.entities.keys;
+package com.viz.interview.modules.scans.entities.keys;
 
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;

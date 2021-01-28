@@ -1,9 +1,9 @@
-package com.viz.interview.modules.scans.controllers;
+package com.viz.interview.modules.patients.controllers;
 
-import com.viz.interview.modules.scans.dto.PatientDto;
-import com.viz.interview.modules.scans.entities.PatientEntity;
-import com.viz.interview.modules.scans.mappers.PatientsMapper;
-import com.viz.interview.modules.scans.services.PatientsService;
+import com.viz.interview.modules.patients.dto.PatientDto;
+import com.viz.interview.modules.patients.entities.PatientEntity;
+import com.viz.interview.modules.patients.mappers.PatientsMapper;
+import com.viz.interview.modules.patients.services.PatientsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

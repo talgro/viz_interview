@@ -1,7 +1,5 @@
-package com.viz.interview.modules.scans.dto;
+package com.viz.interview.modules.patients.dto;
 
-
-import java.time.LocalDateTime;
 
 public class PatientDto {
     private String id;

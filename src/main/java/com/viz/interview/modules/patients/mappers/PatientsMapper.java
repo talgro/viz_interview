@@ -1,8 +1,8 @@
-package com.viz.interview.modules.scans.mappers;
+package com.viz.interview.modules.patients.mappers;
 
 
-import com.viz.interview.modules.scans.dto.PatientDto;
-import com.viz.interview.modules.scans.entities.PatientEntity;
+import com.viz.interview.modules.patients.dto.PatientDto;
+import com.viz.interview.modules.patients.entities.PatientEntity;
 
 public class PatientsMapper {
 

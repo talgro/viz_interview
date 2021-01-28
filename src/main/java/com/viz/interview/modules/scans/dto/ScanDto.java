@@ -1,4 +1,4 @@
-package com.viz.interview.modules.patients.scans.dto;
+package com.viz.interview.modules.scans.dto;
 
 
 import java.time.LocalDateTime;

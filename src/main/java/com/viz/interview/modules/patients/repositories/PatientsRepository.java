@@ -1,6 +1,6 @@
-package com.viz.interview.modules.scans.repositories;
+package com.viz.interview.modules.patients.repositories;
 
-import com.viz.interview.modules.scans.entities.PatientEntity;
+import com.viz.interview.modules.patients.entities.PatientEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

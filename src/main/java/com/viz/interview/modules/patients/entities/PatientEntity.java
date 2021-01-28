@@ -1,4 +1,4 @@
-package com.viz.interview.modules.scans.entities;
+package com.viz.interview.modules.patients.entities;
 
 import javax.persistence.*;
 
